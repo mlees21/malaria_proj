@@ -1,6 +1,4 @@
 # Malaria Eradication and Health Financing Analysis
-Margaret Lees
-
 Published as part of the Lancet Commission on Malaria Eradication Sept 9th, 2019
 https://www.thelancet.com/commissions/malaria-eradication
 
@@ -73,7 +71,7 @@ Development assistance for health were estimated using data from international d
 Development assistance for health disbursements were smoothed using a local regression model. Smoothing variable (span/frac) was optimized to ensure the area under the curve to accurately reflect the total volume of disbursement over that period.
 
 ### Results
-Current Total Spending on Malaria
+**2016 Total Spending on Malaria**
 |         **Source**         | **2016 Spending on malaria** |            |
 |:----------------------:|:------------------------:|:----------:|
 |                        |      **US$ (millions)**      | **% of Total** |
@@ -86,9 +84,14 @@ Current Total Spending on Malaria
 |                 Global |                      277 |         11% |
 | **Total**                | 4,277                    | 100%      |
 
-Current total spending on malaria is around US$4.3 billion per year, of which 56% comes from development assistance. Focusing on in-country spending (excluding development assistance for administration and global purposes), development assistance is 47% of total malaria spending. For these 106 malarious countries, reliance on development assistance for malaria is higher than for the health sector as a whole (14%) or for HIV (45%).
+Current (2016) total spending on malaria is around US$4.3 billion per year, of which 56% comes from development assistance. Focusing on in-country spending (excluding development assistance for administration and global purposes), development assistance is 47% of total malaria spending. For these 106 malarious countries, reliance on development assistance for malaria is higher than for the health sector as a whole (14%) or for HIV (45%).
 
-From the 2018 data, development assistance for malaria is made up of contributions from the US government (43%), followed by the UK government (14%), the Gates Foundation (13%), and the French government (3%). Eighty percent of all international malaria funding is channeled through the Global Fund, US government bilateral programs, and NGOs, which are in turn largely funded by the US government.
+From the 2018 data, development assistance for malaria is mostly made up of contributions from:
+ * the US government (43%)
+ * the UK government (14%)
+ * the Gates Foundation (13%)
+ * the French government (3%). 
+Eighty percent of all international malaria funding is channeled through the Global Fund, US government bilateral programs, and NGOs, which are also largely funded by the US government.
 
 **Total health spending for all malarious countries**
 ![Total Spending Plot](/plots/106_countries_spending_bil.png)
@@ -99,30 +102,15 @@ From the 2018 data, development assistance for malaria is made up of contributio
  * This rise was driven by development assistance for malaria and overtook government malaria spending in 2008
 
 **Eliminating Countries:**
-* Group 1: El Salvador, Paraguay, Malaysia
-* Group 2: Timor-Leste, Sri Lanka, Bhutan
-* Group 3: South Africa, Swaziland, Botswana
-These groups are based the countries’ general dependence on DAH versus GHE for total malaria expenditure, trends observed in percent decrease in the number of malaria cases over time, and a “loose” emphasis on geographic location. Cape Verde was excluded from this analysis (because of the request to have 3 groups of 3), but its profile and trends are similar to that of the other AFRO countries included in Group 3.
+For most of the eliminating countries, shown here as the bottom 30 malarious countries, the general trend in spending was that as total malaria expenditures increased, the number of malaria cases decreased and approached zero. 
 
-In most of the eliminating countries included in the analysis, regardless of grouping, as total malaria expenditures increased, the number of malaria cases decreased and approached zero. It is difficult to assess whether increases in donor spending displace domestic spending; Groups 1 and 3 have very little donor spending, and in some countries increases in donor spending were accompanied by decreases or a lack in increases in domestic spending.  
+![Bottom 30 Spending Plot](/plots/30_lowest_burden_countries_spending_bil.png) 
+![Bottom 30 Spending Plot per capita](/plots/30_lowest_burden_countries_spending_per_capita.png)|
 
-![Bottom 30 Spending Plot](/plots/30_lowest_burden_countries_spending_bil.png)
-![Bottom 30 Spending Plot per capita](/plots/30_lowest_burden_countries_spending_per_capita.png)
-The 30 countries with the lowest incidence rates most spending on malaria comes from the government - avg per capita US$1
+The 30 countries with the lowest malaria incidence rates, most of the spending on malaria comes from the government - avg per capita US$1
 
 **High Burden Countries:**
-We split up the High burden countries into four groups:
-* Group 1: DRC, Mozambique, Mali, Burkina Faso, Uganda, Tanzania
-* Group 2: Ghana, Nigeria, Cameroon
-* Group 3: Niger
-* Group 4: India
-In most of the high burden countries included in the analysis, regardless of grouping, as total malaria expenditures increased, the number of malaria cases decreased. In general, variability in total spending in these countries is largely due to variability in donor spending, and less due to changes in domestic spending. 
-
-Groups 1 and 2 have very similar trends in malaria spending and case decline, but they fall into different World Bank income groups (based on 2019 classifications). It is interesting to see that there doesn’t seem to be a large difference in per capita Donor and Domestic spending between these groups, outside of Tanzania’s Domestic spending on malaria. Similarly, the malaria case incidence trends from 2000-2015 are also very similar, with Burkina Faso having slightly more cases than the rest of the countries and Tanzania having slightly fewer.
-
-Clear outliers from these groups are Niger and India. Niger is highly dependent on DAH and is the only country where malaria cases increased from 2000 to 2015. India is hard to compare with these other countries because of India’s much larger population size when compared to the other countries.
-
-For the High burden countries, we can suggest a few different groups for the 9 total figures. One option would be to only include the first two groups to emphasize the similarities that they all share. Another option would be to highlight one or both of the outliers (Niger and India) alongside 7 of the countries from groups 1 & 2. I think either way you would see an interesting comparison.
+For the highest burden countries it was also observed that as total malaria expenditures increased, the number of malaria cases decreased. In general, variability in total spending in these countries is largely due to variability in donor spending, and less due to changes in domestic spending. 
 
 ![Top 30 Spending Plot](/plots/30_highest_burden_countries_spending_bil.png)
 ![Top 30 Spending Plot per capita](/plots/30_highest_burden_countries_spending_per_capita.png)
