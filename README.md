@@ -22,7 +22,7 @@ There are 8 total sections of _The Lancet_ publication, but we will just focus o
 1. Alignment with broader health and development goals
 
 ### Global Burden of Malaria
-In 2017 there were 219 million malaria cases, 435,000 deaths in 87 endemic countries
+In 2017 there were 219 million malaria cases, 435,000 deaths in 87 endemic countries.
 
 Malaria is a preventable and curable life-threatening disease caused by parasites that are transmitted to people through mosquitoes. 
 
@@ -32,9 +32,10 @@ https://www.cdc.gov/malaria/about/biology/index.html
 
 ### Global Focus on Malaria
 In 2015 the United Nations General Assembly published their 17 global Sustainable Development Goals (SDGs) for 2030. Malaria eradication falls under SDG 3.
- * Sustainable Development Goal 3: Ensure healthy lives and promote well-being for all at all ages
-   * 3.2: By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births
-   * 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases
+
+Sustainable Development Goal 3: Ensure healthy lives and promote well-being for all at all ages
+* 3.2: By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births
+* 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases
 
 57% of malaria deaths are from children under 5. Globally, from 2000 to 2016, the under-5 mortality rate dropped by 47%, and the neonatal mortality rate fell by 39%. Over the same period, the total number of under-5 deaths dropped from 9.9 million to 5.6 million.
 
@@ -63,9 +64,10 @@ https://sustainabledevelopment.un.org
 
 
 ### The Data
- * Health Financing - supplied by the Institute for Health Metrics and Evaluation published in Financing Global Health 2018. These spending numbers are adjusted from the World Health Organization global health expenditure database. Values were calculated for each country for each year from 2000 to 2016 and broken down by source and disease group. 
+**Health Financing** - supplied by the Institute for Health Metrics and Evaluation published in Financing Global Health 2018. These spending numbers are adjusted from the World Health Organization global health expenditure database. Values were calculated for each country for each year from 2000 to 2016 and broken down by source and disease group. 
 Development assistance for health were estimated using data from international databases, all data refer to disbursements.
- * Malaria Incidence - World Health Organization Estimated Malaria Cases from the World Malaria Report 2018. This is from combined data from national malaria programmes and household surveys. Estimates were made by adjusting the number of reported malaria cases for completeness of reporting, the likelihood that cases were parasite positive, and the extent of health-service use
+
+**Malaria Incidence** - World Health Organization Estimated Malaria Cases from the World Malaria Report 2018. This is from combined data from national malaria programmes and household surveys. Estimates were made by adjusting the number of reported malaria cases for completeness of reporting, the likelihood that cases were parasite positive, and the extent of health-service use
 
 ### Data Smoothing
 Development assistance for health disbursements were smoothed using a local regression model. Smoothing variable (span/frac) was optimized to ensure the area under the curve to accurately reflect the total volume of disbursement over that period.
