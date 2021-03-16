@@ -47,16 +47,15 @@ https://sustainabledevelopment.un.org
  * Eradication - Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts
 
 ### Health Financing Key Terms
+Definitions supplied by IHME to use along with their data
+
 **Development Assistance for Health (DAH) + Government Health Spending (GHE) + Out-of-Pocket Spending (OOP) + Prepaid Private Spending (PPP) = Total Health Spending (THE)**
 
-**Total Health Spending:** The sum of government health spending, prepaid private health spending, out-of-pocket health spending, and development assistance for health. Total health spending does not include indirect health spending, such as lost wages due to illness or transportation costs; informal care (spending on care provided by a family member or by traditional healers); or illegal transactions.
+**Total Health Spending:** The sum of all health spending in a country, this includes government health spending, prepaid private health spending, out-of-pocket health spending, and development assistance for health.
 
-**Development Assistance for Health:** Financial and in-kind resources that are transferred through major health development agencies (such as UNICEF, the United Kingdom’s Department for International Development, or the Bill & Melinda Gates Foundation) to low- and middle-income countries with the primary purpose of maintaining or improving health. Development assistance for malaria, as with development assistance for health, can be expressed as a commitment (by the donor to the recipient), a disbursement (from the donor to the recipient), or an expenditure (of the monies disbursed by the recipient)
- * Country development assistance for health: Development assistance for health, financial or in-kind, targeting a specific country. 
- * Administrative development assistance for health: The administrative costs of running development health programs born by the channel of assistance.
- * Global development assistance for health: Development assistance for health projects that do not target a specific country. These include research and resources for global governance. 
+**Development Assistance for Health:** Financial and in-kind resources that are transferred through major health development agencies (such as UNICEF or the Bill & Melinda Gates Foundation) to low- and middle-income countries with the primary purpose of maintaining or improving health.
 
-**Government Health Spending:** Spending for health care that is derived from domestic sources and is mutually exclusive from out-of-pocket, prepaid private, and development assistance spending. Government spending includes spending on public health system infrastructure and government-provided social health insurance, and patient care.
+**Government Health Spending:** Spending for health care that comes from the government budget of a country and is not included in out of pocket spending, private spending or development assistance. This includes spending on public health systems, insurance and patient care.
 
 **Out-of-Pocket Spending:** Payments made by individuals for health maintenance, restoration, or enhancement at or after the time of health care delivery, including health insurance copayments or payments devoted to deductibles. Health insurance premiums are not considered out-of-pocket.
 
@@ -64,8 +63,7 @@ https://sustainabledevelopment.un.org
 
 
 ### The Data
-**Health Financing** - supplied by the Institute for Health Metrics and Evaluation published in Financing Global Health 2018. These spending numbers are adjusted from the World Health Organization global health expenditure database. Values were calculated for each country for each year from 2000 to 2016 and broken down by source and disease group. 
-Development assistance for health were estimated using data from international databases, all data refer to disbursements.
+**Health Financing** - Data created by the Institute for Health Metrics and Evaluation published in Financing Global Health 2018. These spending numbers are adjusted from the World Health Organization global health expenditure database. Values were calculated for each country for each year from 2000 to 2016 and broken down by source and disease group. Development assistance for health were estimated using data from international databases, all data refer to disbursements.
 
 **Malaria Incidence** - World Health Organization Estimated Malaria Cases from the World Malaria Report 2018. This is from combined data from national malaria programmes and household surveys. Estimates were made by adjusting the number of reported malaria cases for completeness of reporting, the likelihood that cases were parasite positive, and the extent of health-service use
 
