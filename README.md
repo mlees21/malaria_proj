@@ -84,7 +84,7 @@ Development assistance for health disbursements were smoothed using a local regr
 |                 Global |                      277 |         11% |
 | **Total**                | 4,277                    | 100%      |
 
-Current (2016) total spending on malaria is around US$4.3 billion per year, of which 56% comes from development assistance. Focusing on in-country spending (excluding development assistance for administration and global purposes), development assistance is 47% of total malaria spending. For these 106 malarious countries, reliance on development assistance for malaria is higher than for the health sector as a whole (14%) or for HIV (45%).
+Current (2016) total spending on malaria is around US$4.3 billion per year, of which 56% comes from development assistance. For these 106 malarious countries, reliance on development assistance for malaria is higher than for the health sector as a whole (14%) or for HIV (45%).
 
 From the 2018 data, development assistance for malaria is mostly made up of contributions from:
  * the US government (43%)
@@ -102,14 +102,16 @@ Eighty percent of all international malaria funding is channeled through the Glo
  * This rise was driven by development assistance for malaria and overtook government malaria spending in 2008
 
 **Eliminating Countries:**
+
 For most of the eliminating countries, shown here as the bottom 30 malarious countries, the general trend in spending was that as total malaria expenditures increased, the number of malaria cases decreased and approached zero. 
 
 ![Bottom 30 Spending Plot](/plots/30_lowest_burden_countries_spending_bil.png) 
-![Bottom 30 Spending Plot per capita](/plots/30_lowest_burden_countries_spending_per_capita.png)|
+![Bottom 30 Spending Plot per capita](/plots/30_lowest_burden_countries_spending_per_capita.png)
 
 The 30 countries with the lowest malaria incidence rates, most of the spending on malaria comes from the government - avg per capita US$1
 
 **High Burden Countries:**
+
 For the highest burden countries it was also observed that as total malaria expenditures increased, the number of malaria cases decreased. In general, variability in total spending in these countries is largely due to variability in donor spending, and less due to changes in domestic spending. 
 
 ![Top 30 Spending Plot](/plots/30_highest_burden_countries_spending_bil.png)
